@@ -1,0 +1,2 @@
+url,username,uwerpass,code,expect
+http://boss:8080/WoniuBoss2.5/log/userLogin,WNCD000,woniu123,0000,success
