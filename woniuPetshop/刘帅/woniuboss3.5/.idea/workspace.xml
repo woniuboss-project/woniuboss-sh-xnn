@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f4e4d41-fc2d-4dec-a720-6e23e0dee55f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFUSpWQqBBOd4XFp9EzGRnQF5e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="H:/二阶段杨波/WNXA25-0224下午" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm-file\untitled\woniuboss2.5\bin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm-file\untitled\woniuboss2.5\conf" />
+      <recent name="D:\pycharm-file\untitled\woniuboss2.5\scripts" />
+      <recent name="D:\pycharm-file\untitled\woniuboss2.5\data" />
+      <recent name="D:\pycharm-file\untitled\woniuboss2.5\tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.login">
+    <configuration name="driven (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="woniuboss3.5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../woniuboss3.5/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../woniuboss3.5/bin/driven.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="driven" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="woniuboss3.5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/driven.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="woniuboss3.5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../woniuboss3.5/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../woniuboss3.5/scripts/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="woniuboss3.5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../woniuboss3.5/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../woniuboss3.5/scripts/test_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.login" />
+        <item itemvalue="Python.driven (1)" />
+        <item itemvalue="Python.test_login" />
+        <item itemvalue="Python.driven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f4e4d41-fc2d-4dec-a720-6e23e0dee55f" name="Default Changelist" comment="" />
+      <created>1584434338414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584434338414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Notifications" timestamp="1585455863131">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.826@0.0.1536.826" timestamp="1585455863131" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585462950558">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1585462950558" />
+    <state width="1514" height="206" key="GridCell.Tab.0.bottom" timestamp="1585463478642">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="206" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1585463478642" />
+    <state width="1514" height="206" key="GridCell.Tab.0.center" timestamp="1585463478642">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="206" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1585463478642" />
+    <state width="1514" height="206" key="GridCell.Tab.0.left" timestamp="1585463478642">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="206" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1585463478642" />
+    <state width="1514" height="206" key="GridCell.Tab.0.right" timestamp="1585463478642">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="206" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1585463478642" />
+    <state x="272" y="44" key="SettingsEditor" timestamp="1585463147292">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="272" y="44" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1585463147292" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584434707952">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1584434707952" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+url,cpassword,expect
+http://boss:8080/WoniuBoss2.5/second?,woniu123,yes
+
